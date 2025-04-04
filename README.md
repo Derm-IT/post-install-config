@@ -8,10 +8,6 @@ This repository details the post-installation configuration of the osTicket help
 
 To configure osTicket after installation, customizing it for efficient ticket management and support operations.
 
-## Context
-
-This project demonstrates the advanced configuration of osTicket, highlighting the skills required for helpdesk administrators and IT support professionals.
-
 ## Prerequisites
 
 * A successfully installed osTicket instance, as described in the "osTicket: Prerequisites and Installation" repository.
