@@ -74,14 +74,17 @@ To configure osTicket after installation, customizing it for efficient ticket ma
 * Then click Access and assign Jane Doe to the SysAdmins Department under Primary Department and assign her the `Supreme Admin` role
 * ![image](https://github.com/user-attachments/assets/3b7cb863-a2de-4c42-8239-6877bf4326a1)
 * This will make her the Admin for the project
-* Go to the Teams tab and assign her to the `Online Banking Team`
+* Go to the Teams tab and assign her to the `Online Banking Team` by clicking `add`
 * ![image](https://github.com/user-attachments/assets/9a8c2395-2499-4fff-9fa8-b5abbd5a40ce)
 * Now create another Agent called `John Doe` and assign an Email address and Username. He will act as our Support Level Agent (w/ Expaned Access)
 * ![image](https://github.com/user-attachments/assets/0a74e394-34f0-4051-a22b-b3e21000a136)
 * Set Password the same way
 * Go to Access tab and set his Department as `Support` and Role as `Expanded Access`
 * ![image](https://github.com/user-attachments/assets/e55d228f-e3e8-4f73-ba49-af9eef506dff)
+* Now go to the Teams Tab and assign him to `Level 1 Support`. Click `add`
+* ![image](https://github.com/user-attachments/assets/8e118bff-64a8-4f30-a733-25acb52755cf)
 * Leave the rest of it as is and click create
+* Now that we have 2 Agents lets assign them to 
 
 
 ### 7. Configure Users (Customers/End-Users)
