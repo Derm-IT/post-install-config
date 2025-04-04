@@ -76,11 +76,11 @@ To configure osTicket after installation, customizing it for efficient ticket ma
 * This will make her the Admin for the project
 * Go to the Teams tab and assign her to the `Online Banking Team`
 * ![image](https://github.com/user-attachments/assets/9a8c2395-2499-4fff-9fa8-b5abbd5a40ce)
-* Now create another Agent called `John Doe` and assign an Email address and Username. He will act as our Support Level Agent
+* Now create another Agent called `John Doe` and assign an Email address and Username. He will act as our Support Level Agent (w/ Expaned Access)
 * ![image](https://github.com/user-attachments/assets/0a74e394-34f0-4051-a22b-b3e21000a136)
 * Set Password the same way
-* Go to Access tab and set his Department as `Support` and Role as `View Only`
-* ![image](https://github.com/user-attachments/assets/04635345-b7f0-4778-9e3c-19edfc41d43b)
+* Go to Access tab and set his Department as `Support` and Role as `Expanded Access`
+* ![image](https://github.com/user-attachments/assets/e55d228f-e3e8-4f73-ba49-af9eef506dff)
 * Leave the rest of it as is and click create
 
 
